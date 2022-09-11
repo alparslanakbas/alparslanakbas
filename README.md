@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AlparslanTR)      [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alparslanizzmm/) 
 
-Ankara Yüksek İhtisas Üniversitesi Bilgisayar Programcılığı Bölümünden Mezunum. Üniversitemin Bitmesinin Ardından Kendimi C#-ASP.NET-MVC Üzerinden Geliştirmekteyim. Proflimdeki Projelere Bakabilirsiniz.
+Ankara Yüksek İhtisas Üniversitesi Bilgisayar Programcılığı Bölümünden Mezunum. Üniversitemin Bitmesinin Ardından Kendimi C#-ASP.NET-MVC CORE - Angular Üzerinden Geliştirmekteyim. Proflimdeki Projelere Bakabilirsiniz.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlparslanTR&layout=compact)](https://github.com/AlparslanTR/github-readme-stats)
 
