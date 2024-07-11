@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alparslan</h1>
 <h3 align="center">A Junior Dotnet Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlparslanTR&label=Profile%20views&color=0e75b6&style=flat" alt="alp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alparslanakbas&label=Profile%20views&color=0e75b6&style=flat" alt="alp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlparslanTR" alt="alp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alparslanakbas" alt="alp" /></a> </p>
 
 - 🌱 I’m currently learning **C# and Dotnet**
 
 - 📫 How to reach me **bybluestht@gmail.com**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AlparslanTR) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/alparslanakbas) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/legolas.trr/) 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -34,6 +34,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="HTML" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlparslanTR&show_icons=true&locale=en&layout=compact" alt="alp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alparslanakbas&show_icons=true&locale=en&layout=compact" alt="alp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlparslanTR&show_icons=true&locale=en" alt="alp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alparslanakbas&show_icons=true&locale=en" alt="alp" /></p>
