@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **bybluestht@gmail.com**
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/alparslanakbas) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/legolas.trr/) 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
